@@ -419,3 +419,6 @@ mode "$mode_gaps_outer" {
 
 exec_always autorandr --change --force
 exec_always setxkbmap -layout us -variant intl
+exec spotify
+exec discord
+exec telegram-desktop
